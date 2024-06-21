@@ -1,0 +1,16 @@
+sudo add-apt-repository ppa:wireshark-dev/stable
+// The first command, 
+"sudo add-apt-repository ppa:wireshark-dev/stable", 
+is like telling your computer to add a new place (repository) where it can find software. 
+Specifically, 
+it's adding a place called "wireshark-dev/stable" which is where Wireshark,
+ a network analysis tool, 
+is developed and kept up-to-date. 
+This helps your computer know where to find and download Wireshark when you want to install it.
+
+sudo apt install wireshark
+// Install Wireshark.
+
+configuring wireshark click yes
+// Configure Wireshark, confirming settings by clicking "Yes".
+"Configuration" refers to the process of adjusting settings or parameters to make a system or software work correctly 
